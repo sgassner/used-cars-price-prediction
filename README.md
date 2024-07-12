@@ -27,8 +27,6 @@ We used the following data sources for this project:
 - [US Used Cars Dataset from Kaggle](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset)
 - [US Zip Codes Dataset](https://www.unitedstateszipcodes.org/zip-code-database/)
 
-Due to the large size of the dataset, we worked with a subsample of 10,000 observations for data cleaning and analysis. The full dataset was used for final model evaluation.
-
 ## Methods and Results
 
 We tested various regression methods including OLS and LASSO to predict the price of used cars. Our findings are summarized as follows:
