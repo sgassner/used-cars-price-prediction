@@ -7,7 +7,7 @@ Welcome to the repository for the "Used Cars Price Prediction" project. This pro
 
 Sandro Gassner
 
-## Datum
+## Date
 
 26 March 2022
 
