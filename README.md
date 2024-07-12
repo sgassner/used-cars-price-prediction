@@ -3,6 +3,14 @@
 
 Welcome to the repository for the "Used Cars Price Prediction" project. This project was conducted to predict the price of used cars based on various features and seller information.
 
+## Autor
+
+Sandro Gassner
+
+## Datum
+
+26 March 2022
+
 ## Table of Contents
 
 - [Introduction](#introduction)
